@@ -15,5 +15,4 @@ class Snakes{
   public Map<Integer,Integer> getHeadAndTails{
     return headAndTails;
   }
-}
     
